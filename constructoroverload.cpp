@@ -12,4 +12,5 @@ public :
 Mahasiswa();
 Mahasiswa(int);
 Mahasiswa(string);
+Mahasiswa(int nim, string nama);
 };
