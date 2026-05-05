@@ -10,4 +10,5 @@ string nama;
 public :
 
 Mahasiswa();
+Mahasiswa(int);
 };
