@@ -11,4 +11,5 @@ public :
 
 Mahasiswa();
 Mahasiswa(int);
+Mahasiswa(string);
 };
