@@ -8,4 +8,6 @@ int nim;
 string nama;
 
 public :
+
+Mahasiswa();
 };
