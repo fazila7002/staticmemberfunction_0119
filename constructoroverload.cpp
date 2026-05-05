@@ -13,4 +13,5 @@ Mahasiswa();
 Mahasiswa(int);
 Mahasiswa(string);
 Mahasiswa(int nim, string nama);
+void cetak();
 };
