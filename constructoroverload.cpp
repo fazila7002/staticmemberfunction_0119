@@ -6,4 +6,6 @@ class Mahasiswa {
 private :
 int nim;
 string nama;
+
+public :
 };
